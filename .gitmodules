@@ -1,0 +1,3 @@
+[submodule "lib/UniversalMediaEngine"]
+	path = lib/UniversalMediaEngine
+	url = https://github.com/ms-iot/UniversalMediaEngine
